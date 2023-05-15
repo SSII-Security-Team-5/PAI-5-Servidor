@@ -1,0 +1,15 @@
+Año-Mes: 2021-1, Ratio: 1.0, Tendencia: 0
+Año-Mes: 2021-2, Ratio: 0.5, Tendencia: 0
+Año-Mes: 2021-3, Ratio: 0.5, Tendencia: 0
+Año-Mes: 2021-4, Ratio: 1.0, Tendencia: +
+Año-Mes: 2021-5, Ratio: 0.5, Tendencia: -
+Año-Mes: 2021-6, Ratio: 0.5, Tendencia: 0
+Año-Mes: 2021-7, Ratio: 0.0, Tendencia: -
+Año-Mes: 2021-8, Ratio: 0.5, Tendencia: +
+Año-Mes: 2021-9, Ratio: 1.0, Tendencia: +
+Año-Mes: 2021-10, Ratio: 1.0, Tendencia: 0
+Año-Mes: 2021-11, Ratio: 0.0, Tendencia: -
+Año-Mes: 2021-12, Ratio: 1.0, Tendencia: +
+Año-Mes: 2022-1, Ratio: 0.5, Tendencia: -
+Año-Mes: 2022-2, Ratio: 1.0, Tendencia: +
+Año-Mes: 2022-3, Ratio: 0.5, Tendencia: -

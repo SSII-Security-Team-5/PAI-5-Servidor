@@ -1,6 +1,6 @@
 {
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
-        "c:\\Program Files (x86)\\H2\\bin\\h2-2.1.214.jar"
+        "sqlite-jdbc-3.41.2.1.jar"
     ]
 }
